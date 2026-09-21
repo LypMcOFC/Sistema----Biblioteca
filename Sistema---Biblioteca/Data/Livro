@@ -1,0 +1,4 @@
+namespace Sistema---Biblioteca.Data
+{
+   public static List<Livro> _tabelalivros = new list<lisvro>():
+   private static  int proximoID
